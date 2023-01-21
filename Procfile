@@ -1,0 +1,1 @@
+web: gunicorn anuncie.wsgi --log-file -
