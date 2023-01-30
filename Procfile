@@ -1,1 +1,1 @@
-web: gunicorn anuncie.wsgi --log-file -
+web: gunicorn anuncie.wsgi 
